@@ -1,0 +1,232 @@
+@import url(base.css);
+.icon {
+       width: 1em; height: 1em;
+       vertical-align: -0.15em;
+       fill: currentColor;
+       overflow: hidden;
+    }
+
+.shouye{
+	width: 7.5rem;
+	height: 2.47rem;
+	background: #ff2c56;
+	position: relative;
+}
+.shouye1{
+	width: 100%;
+	height: 1.87rem;
+	overflow: hidden;
+}
+
+.zz{
+	width: 0.52rem;
+	height: 0.52rem;
+	background:#ff2c56;
+	margin-top: 0.22rem;
+	margin-left: 0.25rem;
+	float: left;
+	font-size: 0.27rem;
+	line-height: 0.52rem;
+	text-align: center;
+
+}
+.wz{
+	width: 5.43rem;
+	height: 0.95rem;
+	background:#ff2c56;
+	margin-top: 0.92rem;
+	float: right;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.wz span{
+	width: 100%;
+	height: 0.3rem;
+	color: #fff8f8;
+	font-size: 0.24rem;
+}
+
+.sksj{
+	font-size: 0.3rem;
+	font-weight: bold;
+}
+.shouye1 .wz .jj{
+	font-size: 0.2rem;
+	white-space: normal;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	/* width: rem; */
+}
+.xiaxia{
+	width: 100%;
+	height: 0.3rem;
+	background: #fff;
+	position: absolute;
+	bottom:-0.01rem;
+	left: 0;
+
+}
+.xxx{
+	width: 1.53rem;
+	height: 1.53rem;
+	position: absolute;
+	left: 0.24rem;
+	top: 0.92rem;
+
+}
+.sss{
+	width: 100%;
+	height: 0.5rem;
+	border-bottom: 0.02rem solid #dbdbd7;
+}
+.ss1{
+	width: 5.34rem;
+	height: 100%;
+	margin: 0 auto; 
+	display: flex;
+	justify-content: space-between;
+}
+.wzz{
+	width: 0.6rem;
+	height: 100%;
+	font-size: 0.24rem;
+	color: #000;
+	line-height: 0.5rem;
+	text-align: center;
+}
+.wzz1{
+	border-bottom: 0.05rem solid #f2514f;
+}
+.nnn{
+	width: 100%;
+	height: 8.58rem;
+}
+.nnnz{
+	width: 2.17rem;
+	height: 100%;
+	float: left;
+}
+
+.nnnz1{
+	width: 100%;
+	height: 6.23rem;
+	margin-top: 0.38rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+
+}
+.zzzzz{
+	width: 100%;
+	height: 0.26rem;
+	color: #000;
+	font-size: 0.24rem;
+	line-height: 0.26rem;
+	text-align: center;
+	font-weight: bold;
+}
+.nnny{
+	width: 5.33rem;
+	height: 100%;
+
+	float: right;
+}
+.nnny1{
+	width: 100%;
+	height: 7.72rem;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.nnny2{
+	width: 100%;
+	height: 0.38rem;
+	font-size: 0.24rem;
+	color: #f34848;
+	line-height: 0.38rem;
+}
+.ms{
+	width: 100%;
+	height: 1.17rem;
+	position: relative;
+}
+.msz{
+	width: 1.17rem;
+	height: 1.17rem;
+	float: left;
+}
+.msy{
+	width: 2.7rem;
+	height: 100%;
+	float: left;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	margin-left: 0.2rem;
+}
+.msyy{
+	width: 0.29rem;
+	height: 0.29rem;
+	background:#f43d6d;
+	position: absolute;
+	top: 0.88rem;
+	right: 0.44rem;
+	border-radius: 50%;
+	font-size: 0.24rem;
+	line-height: 0.29rem;
+	text-align: center;
+	color: #fff;
+}
+.msy span{
+		color: #000;
+		font-size: 0.2rem;
+}
+.yyyyy{
+	font-size: 0.24rem;
+	font-weight: bold;
+}
+.ms .msy .yyy1{
+	color: #e63636;
+	font-size: 0.24rem;
+}
+.dididi{
+	width: 100%;
+	height: 0.88rem;
+	bottom: 0;
+	left: 0;
+	z-index: 999;
+	position:fixed;
+	background: #ffffff;
+}
+.wsss{
+	margin-bottom: 0.9rem;
+}
+.dididi1{
+	width: 6.12rem;
+	height: 100%;
+	margin: 0 auto; 
+	display: flex;
+	justify-content: space-between;
+}
+.dididi2{
+	width: 0.8rem;
+	height: 100%;
+}
+.dididi3{
+	width: 100%;
+	height: 0.6rem;
+	font-size: 0.5rem;
+	color:#ff2c56;
+	line-height: 100%;
+	text-align: center;
+}
+.dididi4{
+	width: 100%;
+	height: 0.35rem;
+	font-size: 0.21rem;
+	color: #ff2c56;
+	float: left;
+	text-align: center;
+}

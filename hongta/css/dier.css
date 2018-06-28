@@ -1,0 +1,196 @@
+*{
+	margin: 0;
+	padding:0; 
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.head{
+	width: 100%;
+	height: 49px;
+	margin-top: 36px;
+}
+.head1{
+	width: 960px;
+	height: 100%;
+	margin:0 auto;
+}
+.head11{
+	width: 340px;
+	height: 100%;
+	float: left;
+}
+.head111{
+	width: 173px;
+	height: 100%;
+	float: left;
+}
+.head112{
+	width: 160px;
+	height: 100%;
+	float:right;
+}
+.head12{
+	width: auto;
+	height: 100%;
+	float: right;
+	
+}
+.head12 ul{
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+.head12 ul li{
+	width: auto;
+	height: 100%;
+	margin-left: 40px;
+	font-size: 13px;
+	line-height: 49px;
+}
+.head12 ul li a{
+	color: #5c5c5c;
+}
+.head .head12 ul li .w{
+	color: #c21229;
+}
+.head12 ul li a:hover{
+	color: #c21229;
+}
+.bbbb{
+	width: 100%;
+	height: 621px;
+	position: relative;
+}
+.tu{
+	width: 1274px;
+	height: 225px;
+	margin:0 auto;
+	margin-top: 10px;
+	position: relative;
+}
+.nei{
+	width: 1005px;
+	height: 430px;
+	position: absolute;
+	top: 196px;
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto; 
+}
+.nei1{
+	width: 100%;
+	height: 210px;
+	background: #fff;
+	
+}
+.nei11{
+	width: 450px;
+	height: 180px;
+	margin-top: 31px;
+	border: 1px solid #e9e8eb;
+	position: relative;
+	float: left;
+	margin-left: 30px;
+	
+}
+.jtjj{
+	width: 120px;
+	height: 30px;
+	background: #c10001;
+	color: #fff;
+	font-size: 14px;
+	line-height: 38px;
+	text-align: center;
+}
+.hdz{
+	width: auto;
+	height: auto;
+	padding-left: 20px;
+	padding-right: 60px;
+}
+.hdz1{
+	border-bottom: 1px solid #e9e8eb;
+}
+.xq{
+	width: 118px;
+	height: 27px;
+	border: 1px solid #e9e8eb;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	color: #7a7a7a;
+	font-size: 14px;
+	line-height: 27px;
+	text-align: center;
+}
+.xq a{
+	color: #7a7a7a;
+}
+.xq a:hover{
+	color: #000;
+}
+.zz{
+	width: 120px;
+	height: 30px;
+	background: #c10001;
+	color: #fff;
+	font-size: 14px;
+	line-height: 38px;
+	text-align: center;
+	margin-top: 25px;
+}
+.zdd{
+	width: 100%;
+	height: 78px;
+	background: #e4e4e4;
+	position: relative;
+	margin-top: 40px;
+}
+.zdd1{
+	width: 865px;
+	height: 25px;
+	float: left;
+	margin-top: 20px; 
+	margin-left: 260px;
+}
+.zdd11{
+	width: 721px;
+	height: 100%;
+}
+.zdd111{
+	width: 25px;
+	height: 18px;
+	float: left;
+}
+.zdd112{
+	width: 578px;
+	height: 18px;
+	float: right;
+}
+.zdd2{
+	width: auto;
+	height: auto;
+	float: right;
+	position: absolute;
+	top: 20px;
+	right: 220px;
+
+}
+.ttt{
+	width: auto;
+	height: auto;
+	display: block;
+	float: left;
+	margin-left: 10px;
+}
+.zdd2 .www img{
+		width: 65px;
+		height: 23px;
+}
+.ttt:hover{
+	transform: scale(3);
+}

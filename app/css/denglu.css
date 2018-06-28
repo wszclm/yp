@@ -1,0 +1,169 @@
+@import url(base.css);
+
+    .icon {
+       width: 1em; height: 1em;
+       vertical-align: -0.15em;
+       fill: currentColor;
+       overflow: hidden;
+    }
+.max{
+	width: 7.5rem;
+	height: 12.92rem;
+	position: relative;
+}
+.qq{
+	width: 3.88rem;
+	height: 0.63rem;
+	position: absolute;
+	left: 1.87rem;
+	bottom: 0.87rem;
+	display: flex;
+	justify-content: space-between;
+	font-size: 0.63rem;
+}
+.q{
+	width: 0.63rem;
+	height: 0.63rem;
+	background: #fff;
+	border-radius: 50%;
+	font-size: 0.63rem;
+	box-shadow: 0.03rem 0.02rem 0.05rem 0.03rem #fff;
+
+}
+.wx{
+	width: 0.63rem;
+	height: 0.63rem;
+	background: #fff;
+	border-radius: 50%;
+	font-size: 0.63rem;
+}
+.wb{
+	width: 0.63rem;
+	height: 0.63rem;
+	background: #fff;
+	border-radius: 50%;
+}
+.max img{
+	width: 7.5rem;
+	height: 12.92rem;
+}
+.nei{
+	width: 6.28rem;
+	height: 8.32rem;
+	background: #ffffff;
+	position: absolute;
+	top: 2rem;
+	left: 0.65rem;
+	border-radius: 3%;
+}
+.dlwz{
+	width: 100%;
+	height: 0.78rem;
+	margin-top: 1.01rem;
+	color: #4d4a5;
+	font-size: 0.28rem;
+	line-height: 0.78rem;
+	text-align: center;
+}
+.xiaoy{
+	width:0.16rem;
+	height: 0.16rem;
+	background: black;
+	position: absolute;
+	top: 2.73rem;
+	left: 3.32rem;
+	border-radius: 50%;
+	box-shadow: 0 0.02rem 0.01rem 0.01rem #fdff79;
+}
+.xiaox{
+	width:0.16rem;
+	height: 0.16rem;
+	background:#e52b2b;
+	position: absolute;
+	top: 2.73rem;
+	right: 3.45rem;
+	border-radius: 50%;
+	box-shadow: 0 0.02rem 0.01rem 0.01rem #fdff79;
+}
+.srsj{
+	width: 3.96rem;
+	height: 0.71rem;
+	position: absolute;
+	margin-left: 1.17rem;
+	margin-top:2.21rem;
+	border-bottom: 1px solid #d6d6d6;
+}
+input:focus{
+	outline: none;
+}
+.srsj input{
+	height: 0.4rem;
+	width: 3rem;
+	display: block;
+	margin-left: 0;
+	border: none;
+	/* float: right; */
+	font-size: 0.2rem;
+	color: #ff2c56;
+	margin-top: 0.28rem;
+	padding-left: 0.1rem;
+}
+.srmm input{
+	height: 0.4rem;
+	width: 3rem;
+	display: block;
+	margin-left: 0;
+	border: none;
+	/* float: right; */
+	font-size: 0.2rem;
+	color: #ff2c56;
+	margin-top: 0.28rem;
+	padding-left: 0.1rem;
+}
+.srmm{
+	width: 3.96rem;
+	height: 0.71rem;
+	position: absolute;
+	margin-left: 1.17rem;
+	margin-top:3.02rem;
+	border-bottom: 1px solid #d6d6d6;
+}
+.fk1{
+	width: 0.32rem;
+	height: 0.08rem;
+	background: #559fe5;
+	position: absolute;
+	margin-left: 0.67rem;
+	margin-top: 2.68rem;
+	box-shadow: 0.03rem 0.02rem 0.03rem 0.03rem #88a4dc;
+}
+.fk2{
+	width: 0.32rem;
+	height: 0.08rem;
+	background: #559fe5;
+	position: absolute;
+	margin-left: 0.67rem;
+	margin-top: 3.45rem;
+	box-shadow: 0.03rem 0.02rem 0.03rem 0.03rem #88a4dc;
+}
+.wjmm{
+	width: 1.61rem;
+	height: 0.6rem;
+	margin-top: 4.28rem;
+	margin-left: 0.59rem;
+	font-size: 0.2rem;
+	color:#676767;
+	line-height: 0.6rem;
+	text-align: center;
+}
+.dianji{
+	width: 2.02rem;
+	height: 0.88rem;
+	border-radius: 0.2rem;
+	background:#b0a7aa;
+	margin-left: 2.2rem;
+	font-size: 0.28rem;
+	line-height: 0.88rem;
+	color: #cec5c8;
+	text-align: center;
+}

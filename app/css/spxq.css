@@ -1,0 +1,268 @@
+@import url(base.css);
+.icon {
+       width: 1em; height: 1em;
+       vertical-align: -0.15em;
+       fill: currentColor;
+       overflow: hidden;
+    }
+    .dingbu{
+    	width: 100%;
+    	height: 2.38rem;
+    	background: red;
+    	position: relative;
+    }
+    .fh{
+    	width: auto;
+    	height: auto;
+    	font-size: 0.4rem;
+    	color: #fff6e9;
+    	position: absolute;
+    	top: 0.35rem;
+    	left: 0.32rem;
+    }
+    .dz{
+    	width: 6.81rem;
+    	height: 0.44rem;
+    	margin:0 auto; 
+    }
+    .dzz{
+    	width: auto;
+    	height: 100%;
+    	float: left;
+    	font-size: 0.23rem;
+    	color: #000;
+    	line-height: 0.44rem;
+    }
+    .dzz span{
+    	font-weight: bold;
+    }
+	.dzy{
+		width: auto;
+		height: 100%;
+		float: right;
+		font-size: 0.23rem;
+		color: #9d9d9d;
+		line-height: 0.44rem;
+	}
+	.lj{
+		width: 1.78rem;
+    	height: 0.44rem;
+    	margin-top: 0.05rem;
+    	margin-left: 0.26rem;
+	}
+	.ljz{
+		width: auto;
+		height: 100%;
+		font-size: 0.18rem;
+		color: #7f7f7f;
+		line-height: 0.3rem;
+		float: left;
+	}
+	.ljy{
+		width: 0.74rem;
+		height: 0.28rem;
+		float: right;
+		color: #c0858b;
+		font-size: 0.18rem;
+		line-height: 0.28rem;
+		text-align: center;
+		border: 0.01rem solid #c0858b;
+	}
+	.jr{
+		width: 100%;
+		height: 0.6rem;
+		border-bottom: 0.05rem solid #d3d3d3;
+	}
+	.jrz{
+		width: auto;
+		height: 100%;
+		float: left;
+		margin-left: 0.26rem;
+		color: #ee2a1e;
+		font-size: 0.3rem;
+		line-height: 0.6rem;
+	}
+	.jry{
+		width: 2.07rem;
+		height: 0.4rem;
+		background: #ff2c55;
+		float: right;
+		margin-right: 0.26rem;
+		border-radius: 30%;
+		color: #fff;
+		font-size: 0.2rem;
+		line-height: 0.4rem;
+		text-align: center;
+
+	}
+	.spwz{
+		width: 100%;
+		height: 2rem;
+		border-bottom: 0.1rem solid #afafaf;
+	}
+	.spwz1{
+		width: auto;
+		height: 0.48rem;
+		color: #000;
+		font-size: 0.3rem;
+		line-height: 0.48rem;
+		margin-left: 0.26rem;
+	}
+	.spwz p{
+		width: 6.51rem;
+		height: 0.4rem;
+		color: #686868;
+		font-size: 0.2rem;
+		line-height: 0.4rem;
+		margin-left: 0.26rem;
+	}
+	.zh{
+		width: auto;
+		height: auto;
+		color: #686868;
+		font-size: 0.2rem;
+		line-height: 0.4rem;
+		margin-left: 0.26rem;
+		margin-top: 0.4rem;
+	}
+	.pjr{
+		width: 100%;
+		height: auto;
+
+	}
+	.pjr1{
+		width: auto;
+		height: 0.7rem;
+		color: #090909;
+		font-size: 0.24rem;
+		line-height: 0.7rem;
+		margin-left: 0.26rem;
+	}
+	.pjr1 span{
+		font-weight: bold;
+	}
+	.pjr ul{
+		width: 7.05rem;
+		height: 4.13rem;
+		margin-left: 0.26rem;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+	}
+	.pjr ul li{
+		width: 100%;
+		height: 1.2rem;
+		overflow: hidden;
+	}
+	.tx{
+		width: 0.54rem;
+		height: 0.54rem;
+		float: left;
+		margin-top: 0.38rem;
+	}
+	.txy{
+		width: 6.31rem;
+		height: 100%;
+		float: right;
+	}
+	.txy1{
+		width: 100%;
+		height: 0.5rem;
+		line-height: 0.5rem;
+		text-align: center;
+		font-size: 0.3rem;
+	}
+	.chj{
+		width: 1.7rem;
+		height: 0.5rem;
+		line-height: 0.5rem;
+		font-size: 0.3rem;	
+		float: left;
+	}
+	.rq{
+		width: 1.7rem;
+		height: 0.5rem;
+		line-height: 0.5rem;
+		font-size: 0.3rem;	
+		float: right;
+	}
+	.chpl{
+		width: 100%;
+		height: 0.3rem;
+		line-height: 0.3rem;
+		color: #000;
+		font-size: 0.2rem;
+	}
+	.zzz{
+		width: 2.5rem;
+		height: 0.25rem;
+		float: right;
+	}
+	.zzz1{
+		width: auto;
+		height: 100%;
+		line-height: 0.25rem;
+		font-size: 0.2rem;
+		color: #fa8bac;
+		float: left;
+	}
+	.zzz2{
+		width: auto;
+		height: 100%;
+		line-height: 0.25rem;
+		font-size: 0.2rem;
+		color: #fa8bac;
+		float: right;
+	}
+	.ddb{
+		width: 100%;
+		height: 1.23rem;
+		margin-top: 1.2rem;
+		position: relative;
+	}
+	.bbb{
+		width: 0.82rem;
+		height: 0.82rem;
+		border-radius: 50%;
+		background: #ff2c55;
+		position: absolute;
+		left: 0.25rem;
+		top: 0;
+		box-shadow: 0 0.05rem 0.05rem rgba(0, 0, 0, 0.5);
+		font-size: 0.4rem;
+		line-height: 0.82rem;
+		text-align: center;
+		color: #fff;
+	}
+	.dbs{
+		width: 100%;
+		height: 0.25rem;
+		color: #000;
+		font-size: 0.2rem;
+		line-height: 0.25rem;
+		text-align: center;
+		background: #f49136;
+	}
+	.dbss{
+		width: 100%;
+		height: 0.98rem;
+		background: #ff2c55;
+	}
+	.dbss1{
+		width: auto;
+		height: 100%;
+		font-size: 0.24rem;
+		line-height: 0.98rem;
+		margin-left: 1.16rem;
+		color: #fff;
+		float: left;
+	}
+	.dbss2{
+		width: auto;
+		height: 100%;
+		font-size: 0.24rem;
+		line-height: 0.98rem;
+		margin-right:0.65rem;
+		color: #fff;
+		float: right;
+	}

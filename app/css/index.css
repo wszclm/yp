@@ -1,0 +1,301 @@
+@import url('base.css');
+.icon {
+       width: 1em; height: 1em;
+       vertical-align: -0.15em;
+       fill: currentColor;
+       overflow: hidden;
+    }
+/*  a{
+	text-decoration: none;
+}
+*{
+	list-style:none;
+}   
+
+head */er {
+	width: 100%;
+	height: 0.88rem;
+	background:#ff2c56;
+	padding:0 0.31rem;
+	display: flex;
+	justify-content: space-between; 
+	align-items: center;
+	box-sizing: border-box;
+
+}
+.xdq{
+	width: 2rem;
+	height: 0.4rem;
+	display: block;
+	float: left;
+	font-size: 0.2rem;
+	color: #ffeef1;
+}
+.sou{
+	width: 1.82rem;
+	height: 0.26rem;
+	background: #fff;
+	float: right;
+	border-radius: 0.25rem;
+	border: none;
+	display: block;
+}
+input{
+	height: 0.2rem;
+	width: 1.46rem;
+	display: block;
+	border-top-right-radius: 0.25rem;
+	border-bottom-right-radius: 0.25rem ;
+	border: none;
+	float: right;
+	font-size: 0.2rem;
+	color: #ff2c56;
+
+}
+
+.sou input:focus{
+	outline: none;
+}
+header .sou1 {
+	font-size: 0.2rem;
+	color: #ff2c56;
+	display: block;
+	float: left;
+	padding:0.03rem; 
+}
+.bccc{
+	width: 100%;
+	height: 0.7rem;
+	background: #ff2c56;
+}
+.dj1{
+	width: 100%;
+	height: 1.85rem;
+	background:#ffffff;
+	display: flex;
+	justify-content: space-around; 
+	align-items: center;
+
+	}
+.dj li{
+	width:1rem;
+	height:1rem;
+
+}
+.dj2{
+	border-bottom: 0.06rem solid #5e76b9;
+}
+.ssss{
+	width: 0.63rem;
+	height: 0.63rem;
+	font-size: 0.47rem;
+	line-height: 0.62rem;
+	text-align: center;
+	background: #ffd5dd;
+	border-radius: 50%;
+}
+.sssss{
+	width: 0.63rem;
+	height: 0.38rem;
+	color: #000000;
+	font-size: 0.16rem;
+	line-height: 0.38rem;
+	text-align: center;
+}
+.ssss1{
+	width:0.63rem;
+	height: 0.38rem;
+	color: #000000;
+	font-size: 0.16rem;
+	line-height: 0.38rem;
+	text-align: center;
+}
+.dj22{
+	position: relative;
+}
+.dian{
+	width: 1.08rem;
+	height: 0.04rem;
+	position: absolute;
+	left: 3.22rem;
+	bottom: 0.2rem;
+	display: flex;
+	justify-content: space-between; 
+	align-items: center;
+}
+.dian1{
+	width: 0.19rem;
+	height: 0.04rem;
+	background: #cc99cc;
+	border-radius: 20%;
+}
+.dian2{
+	background: #800080;
+}
+.cn{
+	width: 100%;
+	height: 0.6rem;
+	position: relative;
+}
+.st1{
+	position: absolute;
+	top:0.32rem;
+	right: 2.34rem;
+}
+.st2{
+	position: absolute;
+	top:0.32rem;
+	left: 2.34rem;
+}
+.st{
+	width: 0.65rem;
+	height: 0.03rem;
+	background: #707070;
+}
+.cnxh{
+	width: 100%;
+	height: 100%;
+	color: #000000;
+	line-height: 0.6rem;
+	text-align: center;
+	font-size: 0.22rem;
+}
+.canp{
+	width: 100%;
+	height: 0.23rem;
+	display: flex;
+	justify-content: space-around;
+}
+.canp li{
+	width: 1rem;
+	height: 100%;
+	float: left;
+	font-size: 0.19rem;
+}
+.canp li a{
+	color: #605a5a;
+}	
+
+.wwww{
+	width: 100%;
+	height: 9.51rem;
+	margin-top: 0.18rem;
+}
+.wwww li{
+	width: 100%;
+	height: 1.42rem;
+	margin-top: 0.5rem;
+}
+.tutu{
+	width: 1.56rem;
+	height: 100%;
+	float: left;
+	margin-left: 0.26rem;
+}
+.ping{
+	width: 3.1rem;
+	height: 100%;
+	float: left;
+	margin-left: 0.22rem;
+}
+.yyy{
+	width: 1.6rem;
+	height: 100%;
+	float: right;
+}
+.ping1{
+	width: 100%;
+	height: 0.26rem;
+	color: #050606;
+	font-size: 0.22rem;
+	line-height: 0.26rem;
+
+}
+.xing{
+	width: 1.2rem;
+	height: 0.2rem;	
+}
+.ping2{
+	width: 100%;
+	height: 0.28rem;
+	color: #a4a4a4;
+	font-size: 0.18rem;
+	line-height: 0.26rem;
+}
+.ping3{
+	width: 100%;
+	height: 0.28rem;
+	color: #a4a4a4;
+	font-size: 0.18rem;
+	line-height: 0.26rem;
+}
+.ping4{
+	width: 100%;
+	height: 0.28rem;
+	color: #a4a4a4;
+	font-size: 0.18rem;
+	line-height: 0.26rem;
+}
+.yyy1{
+	width: 100%;
+	height: 0.38rem;
+	color: #a4a4a4;
+	font-size: 0.18rem;
+	line-height: 0.38rem;
+}
+.yyy2{
+	width:100%;
+	height: 0.36rem;
+	background: #ff6987;
+	color: #fff;
+	font-size:0.18rem;
+	line-height: 0.36rem;
+	text-align: center;
+}
+.yyy3{
+	width: 100%;
+	height: 0.38rem;
+	color: #a4a4a4;
+	font-size: 0.18rem;
+	line-height: 0.38rem;
+}
+
+.dididi{
+	width: 100%;
+	height: 0.88rem;
+	bottom: 0;
+	left: 0;
+	z-index: 999;
+	position:fixed;
+	background: #ffffff;
+}
+.wsss{
+	margin-bottom: 0.9rem;
+}
+.dididi1{
+	width: 6.12rem;
+	height: 100%;
+	margin: 0 auto; 
+	display: flex;
+	justify-content: space-between;
+}
+.dididi2{
+	width: 0.8rem;
+	height: 100%;
+}
+.dididi3{
+	width: 100%;
+	height: 0.6rem;
+	font-size: 0.5rem;
+	color:#ff2c56;
+	line-height: 100%;
+	text-align: center;
+}
+.dididi4{
+	width: 100%;
+	height: 0.35rem;
+	font-size: 0.21rem;
+	color: #ff2c56;
+	float: left;
+	text-align: center;
+}
